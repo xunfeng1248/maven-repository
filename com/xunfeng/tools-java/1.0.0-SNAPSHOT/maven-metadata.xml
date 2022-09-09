@@ -3,27 +3,27 @@
   <groupId>com.xunfeng</groupId>
   <artifactId>tools-java</artifactId>
   <versioning>
-    <lastUpdated>20220907063342</lastUpdated>
+    <lastUpdated>20220909092214</lastUpdated>
     <snapshot>
-      <timestamp>20220907.063342</timestamp>
+      <timestamp>20220909.092214</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20220907.063342-1</value>
-        <updated>20220907063342</updated>
+        <value>1.0.0-20220909.092214-1</value>
+        <updated>20220909092214</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20220907.063342-1</value>
-        <updated>20220907063342</updated>
+        <value>1.0.0-20220909.092214-1</value>
+        <updated>20220909092214</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0.0-20220907.063342-1</value>
-        <updated>20220907063342</updated>
+        <value>1.0.0-20220909.092214-1</value>
+        <updated>20220909092214</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

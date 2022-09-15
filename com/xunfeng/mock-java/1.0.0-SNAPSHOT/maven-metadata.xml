@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.xunfeng</groupId>
+  <artifactId>mock-java</artifactId>
+  <versioning>
+    <lastUpdated>20220915073750</lastUpdated>
+    <snapshot>
+      <timestamp>20220915.073750</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20220915.073750-1</value>
+        <updated>20220915073750</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20220915.073750-1</value>
+        <updated>20220915073750</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.0-20220915.073750-1</value>
+        <updated>20220915073750</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.0.0-SNAPSHOT</version>
+</metadata>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.xunfeng</groupId>
+  <artifactId>operate-log-spring-boot-starter</artifactId>
+  <versioning>
+    <lastUpdated>20220920145345</lastUpdated>
+    <snapshot>
+      <timestamp>20220920.145345</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20220920.145345-2</value>
+        <updated>20220920145345</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20220920.145345-2</value>
+        <updated>20220920145345</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.0-20220920.145345-2</value>
+        <updated>20220920145345</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.0.0-SNAPSHOT</version>
+</metadata>

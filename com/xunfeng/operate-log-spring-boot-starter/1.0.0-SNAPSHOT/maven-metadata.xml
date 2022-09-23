@@ -3,27 +3,27 @@
   <groupId>com.xunfeng</groupId>
   <artifactId>operate-log-spring-boot-starter</artifactId>
   <versioning>
-    <lastUpdated>20220921140654</lastUpdated>
+    <lastUpdated>20220923092233</lastUpdated>
     <snapshot>
-      <timestamp>20220921.140654</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20220923.092233</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20220921.140654-2</value>
-        <updated>20220921140654</updated>
+        <value>1.0.0-20220923.092233-1</value>
+        <updated>20220923092233</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20220921.140654-2</value>
-        <updated>20220921140654</updated>
+        <value>1.0.0-20220923.092233-1</value>
+        <updated>20220923092233</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0.0-20220921.140654-2</value>
-        <updated>20220921140654</updated>
+        <value>1.0.0-20220923.092233-1</value>
+        <updated>20220923092233</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
